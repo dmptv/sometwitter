@@ -3,7 +3,6 @@
 //  streamapp
 //
 //  Created by Brian Voong on 7/29/16.
-//  Copyright © 2016 luxeradio. All rights reserved.
 //
 
 import UIKit

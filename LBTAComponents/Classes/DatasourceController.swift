@@ -3,7 +3,6 @@
 //  LBTAComponents
 //
 //  Created by Brian Voong on 11/16/16.
-//  Copyright © 2016 Lets Build That App. All rights reserved.
 //
 
 import UIKit
