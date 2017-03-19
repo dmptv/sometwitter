@@ -88,7 +88,6 @@
 				0F1349B81E78480B00750D1B /* SomeTwitter */,
 				0F1349B71E78480B00750D1B /* Products */,
 				0F1349F31E78691200750D1B /* Classes */,
-				0F1349F01E78691200750D1B /* LBTAComponents */,
 				E1C8F13189095A5C393CD9F0 /* Pods */,
 				22B59A9C3D17FE9DBBB023A2 /* Frameworks */,
 			);
@@ -116,13 +115,6 @@
 				0F1349C51E78480B00750D1B /* Info.plist */,
 			);
 			path = SomeTwitter;
-			sourceTree = "<group>";
-		};
-		0F1349F01E78691200750D1B /* LBTAComponents */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = LBTAComponents;
 			sourceTree = "<group>";
 		};
 		0F1349F31E78691200750D1B /* Classes */ = {
