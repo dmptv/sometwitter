@@ -87,7 +87,7 @@
 			children = (
 				0F1349B81E78480B00750D1B /* SomeTwitter */,
 				0F1349B71E78480B00750D1B /* Products */,
-				0FD0981B1E7EEB92009D7647 /* Classes */,
+				0FD0981B1E7EEB92009D7647 /* PodClasses */,
 				E1C8F13189095A5C393CD9F0 /* Pods */,
 				22B59A9C3D17FE9DBBB023A2 /* Frameworks */,
 			);
@@ -154,7 +154,7 @@
 			name = Service;
 			sourceTree = "<group>";
 		};
-		0FD0981B1E7EEB92009D7647 /* Classes */ = {
+		0FD0981B1E7EEB92009D7647 /* PodClasses */ = {
 			isa = PBXGroup;
 			children = (
 				0FD0981C1E7EEB92009D7647 /* CachedImageView.swift */,
@@ -171,6 +171,7 @@
 				0FD098271E7EEB92009D7647 /* UIImage+Helper.swift */,
 				0FD098281E7EEB92009D7647 /* UIView+Anchors.swift */,
 			);
+			name = PodClasses;
 			path = Classes;
 			sourceTree = "<group>";
 		};
